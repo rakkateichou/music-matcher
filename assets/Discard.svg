@@ -1,0 +1,9 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Discard">
+<circle id="Ellipse 1" cx="30" cy="30" r="30" fill="#F2F2F3"/>
+<g id="Cross">
+<path id="Line 1" d="M20 21L40 40.7821" stroke="#3F2D3B" stroke-width="3" stroke-linecap="round"/>
+<path id="Line 2" d="M20 40.7821L40 21" stroke="#3F2D3B" stroke-width="3" stroke-linecap="round"/>
+</g>
+</g>
+</svg>
